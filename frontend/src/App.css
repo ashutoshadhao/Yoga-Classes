@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo+2&display=swap");
+
+.colorRed {
+  margin: 10px;
+  color: red;
+}
+.cutted {
+  text-decoration: line-through;
+}
+.background-pricing {
+  background-color: #a4d8e6 !important;
+  height: 600px;
+}
+.price_color {
+  color: #d72323;
+}
+.price_color_green {
+  color: rgb(17, 157, 17);
+  font-weight: bolder;
+}
+.center_comp {
+  font-family: "Exo 2", sans-serif;
+  margin: 14px 40px 20px 60px;
+}
+.para_in_center {
+  line-height: 1.5;
+}
+.nav-item {
+  margin-right: 25px;
+  font-size: large;
+}
+.navbar {
+  width: 100%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid black;
+}
+.fa {
+  margin: 20px;
+  font-size: 50px;
+}
+.col-sm-10 {
+  margin: 0px 0px 20px 0px;
+}
+.col-sm-9 {
+  margin: 0px 0px 20px 0px;
+}
+.img-margin {
+  margin-left: 100px;
+}
+.payNow {
+  font-size: larger;
+}
+.font-register,
+.form-control {
+  font-size: 20px;
+}
+.error_message {
+  font-size: 25px !important;
+}
+.hori {
+  margin: 50px;
+}
+.register-m {
+  margin: 10px;
+  margin-bottom: 40px;
+}
+
+/* Responsive Design */
+@media (min-width: 576px) {
+}
+
+@media (max-width: 400px) {
+  .pricing_ig {
+    display: none !important;
+  }
+  .para_in_center {
+    text-align: justify;
+  }
+  .hori {
+    margin: 0px !important;
+  }
+  .register-m {
+    margin: 20px 0px !important;
+  }
+  .about-para {
+    font-size: 22px !important;
+    line-height: 2rem !important;
+  }
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+}

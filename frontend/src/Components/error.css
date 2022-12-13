@@ -1,0 +1,7 @@
+.background {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  height: 600px !important;
+  background: white;
+}
