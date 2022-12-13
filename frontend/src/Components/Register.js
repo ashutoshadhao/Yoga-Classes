@@ -45,7 +45,7 @@ const Register = () => {
     } = user;
     const main = document.getElementById("errorMessage");
     main.innerHTML = ``;
-    console.log(name);
+    // console.log(name);
     if (
       name === "" ||
       email === "" ||
