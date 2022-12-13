@@ -50,7 +50,7 @@ that's all about my project Thank You
 
 ## ER Diagram of Database 
 
-![App Screenshot](./ScreenShot/ER Diagram.JPG)
+![App Screenshot](./ScreenShot/ER_Diagram.JPG)
 
 ## Installation
 
@@ -78,6 +78,7 @@ To run this project, you will need to add the following environment variables to
 fill each filed with your info respectively
 
 ## Author
+
 
 Hello Guys, my name is Ashutosh Adhao, i am currently in final year you can connect me by. . .
 
