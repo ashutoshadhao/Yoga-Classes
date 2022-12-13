@@ -50,7 +50,7 @@ that's all about my project Thank You
 
 ## ER Diagram of Database 
 
-![App Screenshot](./ScreenShot/ER_Diagram.JPG)
+![App Screenshot](./ScreenShot/ER_Diagram.jpg)
 
 ## Installation
 
